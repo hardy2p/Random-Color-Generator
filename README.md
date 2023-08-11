@@ -15,8 +15,10 @@ Welcome to the Random Background Color Generator! This simple web application ge
 
 1. Clone or download this repository to your local machine.
 2. Open the `index.html` file in your web browser.
-3. Click the "Generate Color" button to see the background color change.
+3. Click the "Click Me" button to see the background color change.
 4. Copy the hexadecimal color code provided and use it in your projects.
+5. Hexadeciaml code will be copied to your clipboard once you click clickMe!
+
 
 ## Acknowledgments
 
